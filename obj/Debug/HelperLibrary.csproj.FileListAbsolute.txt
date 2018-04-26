@@ -1,0 +1,6 @@
+C:\Users\Tai Linh Du\source\repos\HelperLibrary\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tai Linh Du\source\repos\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tai Linh Du\source\repos\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\Tai Linh Du\source\repos\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\Tai Linh Du\source\repos\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\Tai Linh Du\source\repos\HelperLibrary\obj\Debug\HelperLibrary.pdb
